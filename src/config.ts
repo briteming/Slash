@@ -1,9 +1,9 @@
 const config = {
-  blogname: 'Slash',
+  blogname: 'Slash blog of brite',
   sep: ' | ',
-  user: 'mastermay',
+  user: 'briteming',
   repo: 'Slash',
-  per_page: 2
+  per_page: 5
 }
 
 export default config;
